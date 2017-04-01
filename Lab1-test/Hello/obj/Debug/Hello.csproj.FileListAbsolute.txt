@@ -1,0 +1,6 @@
+c:\users\salem\documents\visual studio 2017\Projects\Lab1-test\Hello\bin\Debug\Hello.exe.config
+c:\users\salem\documents\visual studio 2017\Projects\Lab1-test\Hello\bin\Debug\Hello.exe
+c:\users\salem\documents\visual studio 2017\Projects\Lab1-test\Hello\bin\Debug\Hello.pdb
+c:\users\salem\documents\visual studio 2017\Projects\Lab1-test\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+c:\users\salem\documents\visual studio 2017\Projects\Lab1-test\Hello\obj\Debug\Hello.exe
+c:\users\salem\documents\visual studio 2017\Projects\Lab1-test\Hello\obj\Debug\Hello.pdb
